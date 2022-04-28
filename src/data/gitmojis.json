@@ -559,6 +559,14 @@
       "description": "Improve developer experience",
       "name": "technologist",
       "semver": null
+    },
+    {
+      "emoji": "🎊",
+      "entity": "&#127882;",
+      "code": ":confetti_ball:",
+      "description": "A feature you are proud of",
+      "name": "Confetti",
+      "semver": null
     }
   ]
 }
